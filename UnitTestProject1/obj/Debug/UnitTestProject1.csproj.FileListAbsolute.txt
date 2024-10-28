@@ -1,0 +1,4 @@
+D:\New folder\ConsoleApp3\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.AssemblyReference.cache
+D:\New folder\ConsoleApp3\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.SuggestedBindingRedirects.cache
+D:\New folder\ConsoleApp3\UnitTestProject1\obj\Debug\UnitTestProject1.dll.config
+D:\New folder\ConsoleApp3\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
